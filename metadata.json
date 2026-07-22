@@ -1,0 +1,6 @@
+{
+  "name": "Atul Enterprise Branch",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Gaya, Bihar. Located near Panchmukhi Mahadeo Mandir, Tekari Rd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
