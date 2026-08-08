@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atul-enterprise-branch.vercel.app/sitemap.xml
