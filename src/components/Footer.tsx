@@ -171,14 +171,7 @@ export default function Footer({ currentTab, setCurrentTab }: FooterProps) {
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4 text-[11px] text-slate-500 pt-2 font-mono">
           <p>
             © {currentYear} Atul Enterprise Branch. All Rights Reserved. | Developed by{" "}
-            <a 
-              href="https://main.webmakerit.com" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="hover:text-brand-accent transition-colors font-semibold"
-            >
-              WMIT
-            </a>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </p>
           
           <div className="flex gap-4">
